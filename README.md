@@ -1,3 +1,3 @@
 # ipl-score-prediction
 
-## Heroku deployed link --> [ https://git.heroku.com/prediction-byparth.git ]
+## Heroku deployed link --> [ https://prediction-byparth.herokuapp.com/ ]
